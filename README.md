@@ -4,7 +4,7 @@ Auto completion for crate's name and version in Cargo.toml.
 
 ## Features
 
-![preview](images/auto.gif)
+![preview](image/auto.gif)
 - suggest crate name and auto complete with latest stable version
 - suggest crate version
 
