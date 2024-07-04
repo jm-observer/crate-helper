@@ -1,13 +1,24 @@
 {
   "name": "crate-helper",
   "displayName": "crate-helper",
-  "description": "",
+  "description": "Auto completion for crate's name and version in Cargo.toml.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.90.0"
   },
   "categories": [
     "Other"
+  ],
+  "publisher": "feng-qi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jm-observer/crate-helper"
+  },
+  "keywords": [
+    "rust",
+    "crate",
+    "cargo",
+    "toml"
   ],
   "activationEvents": [
     "onLanguage:toml",
